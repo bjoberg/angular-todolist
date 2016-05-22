@@ -4,7 +4,7 @@
 
 This application was built using [Angular.js](https://angularjs.org/) and [Material Design](https://www.google.com/design/spec/material-design/). Development was based off of a Treehouse tutorial - [Angular Basics](https://teamtreehouse.com/library/angular-basics).
 
-Live demo: [http://bjoberg.github.io/angular-todolist/](http://bjoberg.github.io/angular-todolist/)
+**Live demo**: [http://bjoberg.github.io/angular-todolist/](http://bjoberg.github.io/angular-todolist/)
 
 ## How to locally run this application:
 1. Download, clone, or fork this application

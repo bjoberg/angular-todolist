@@ -10,7 +10,7 @@ This application was built using [Angular.js](https://angularjs.org/) and [Mater
 1. Download, clone, or fork this application
   * https://github.com/bjoberg/angular-todolist.git
   
-2. Make sure you have [node.js](https://nodejs.org/en/download/) and [npm](https://www.npmjs.com/) globally installed on your computer.
+2. Make sure you have [node.js](https://nodejs.org/en/download/), [npm](https://www.npmjs.com/), and [express.js](http://expressjs.com/) globally installed on your computer.
   
 3. In the terminal, navigate into the project directory, and run the following command:
 

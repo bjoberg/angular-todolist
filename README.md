@@ -4,7 +4,7 @@ Angular Basics tutorial written by the Treehouse team.
 
 **Demo**: [http://bjoberg.github.io/angular-todolist/](http://bjoberg.github.io/angular-todolist/)
 
-## How to locally run this application:
+## Installation:
 1. Install node.js (v5.x.x)
 2. Install npm (v3.x.x)
 3. Install Express

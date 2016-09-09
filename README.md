@@ -1,25 +1,22 @@
-# A simple todo list application
+# Angular Todo List
 
-![alt text](https://github.com/bjoberg/angular-todolist/blob/master/images/main.png "Main screenshot")
+Angular Basics tutorial written by the Treehouse team.
 
-This application was built using [Angular.js](https://angularjs.org/) and [Material Design](https://www.google.com/design/spec/material-design/). Development was based off of a Treehouse tutorial - [Angular Basics](https://teamtreehouse.com/library/angular-basics). 
-
-**Live demo**: [http://bjoberg.github.io/angular-todolist/](http://bjoberg.github.io/angular-todolist/)
+**Demo**: [http://bjoberg.github.io/angular-todolist/](http://bjoberg.github.io/angular-todolist/)
 
 ## How to locally run this application:
-1. Download, clone, or fork this application
-  * https://github.com/bjoberg/angular-todolist.git
-  
-2. Make sure you have [node.js](https://nodejs.org/en/download/), [npm](https://www.npmjs.com/), and [express.js](http://expressjs.com/) globally installed on your computer.
-  
-3. In the terminal, navigate into the project directory, and run the following command:
+1. Install node.js (v5.x.x)
+2. Install npm (v3.x.x)
+3. Install Express
+4. Clone this repository
+5. Within your command line, navigate to your local project directory and run **`npm install`**
+6. Run **`node src/app.js`**
+7. In your web browser navigate to [http://localhost:3000/](http://localhost:3000/)
 
-  ```bash
-  node src/app.js
-  ```
-4. Once completed, you should see the following output:
+## Credits
 
-  ```bash
-  The server is running on port 3000!
-  ```
-5. In your web browser navigate to [http://localhost:3000/](http://localhost:3000/)
+Treehouse tutorial - [Angular Basics](https://teamtreehouse.com/library/angular-basics)
+
+## License
+
+MIT
